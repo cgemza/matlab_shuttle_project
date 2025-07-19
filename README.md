@@ -1,6 +1,6 @@
 # Hubble vs. Webb – MATLAB Final Project
 
-This MATLAB project, completed for **CSCI 1153 R02 (Fall 2023)** by Chelsea Gemza, uses symbolic calculus, data analysis, and curve fitting to explore the motion and structure of the Hubble and Webb Space Telescopes.
+This MATLAB project uses symbolic calculus, data analysis, and curve fitting to explore the motion and structure of the Hubble and Webb Space Telescopes.
 
 ## Overview
 
