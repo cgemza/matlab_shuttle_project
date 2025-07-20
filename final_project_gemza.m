@@ -2,7 +2,6 @@ clear, close all, clc
 
 %Chelsea Gemza
 %Final Project
-%CSCI 1153 R02 Fall 2023
 
 %% Part 1
 clear, close all, clc
